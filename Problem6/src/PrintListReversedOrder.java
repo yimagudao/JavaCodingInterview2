@@ -37,7 +37,6 @@ public class PrintListReversedOrder {
         node3.next = null;
         PrintListReversingly_Iteratively(node1);
         PrintListReversing_Recursively(node1);
-
     }
 }
 
